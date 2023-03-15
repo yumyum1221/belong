@@ -1,3 +1,3 @@
 # belong
 
-WE BELONGS TO YOU
+# - WE BELONG TO YOU
